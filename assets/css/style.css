@@ -1,0 +1,67 @@
+.pequeno {
+    width: 45px;
+}
+
+.container {
+    background: #22223b;
+    opacity: 0.8;
+    border-radius: 30px;
+    padding: 25px;
+    color: #f5f3f4;
+    width: 95%;
+    max-width: 450px;
+}
+
+.second_container {
+    margin-top: 20px;
+}
+
+.third_container {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.city {
+    border: none;
+    outline: none;
+    padding: 13px;
+    border-radius: 25px;
+    font-size: 20px;
+    background-color: #7c7c7c2b;
+    color: #f5f3f4;
+    width: calc(100% - 100px);
+}
+
+button {
+    border: none;
+    outline: none;
+    padding: 12px;
+    border-radius: 55px;
+    background-color: #7c7c7c2b;
+    cursor: pointer;
+    float: right;
+}
+
+.search {
+    width: 20px;
+}
+
+h2 {
+    font-size: 27px;
+    font-weight: 350;
+}
+
+.temp {
+    font-size: 23px;
+    margin-top: 20px;
+}
+
+.forecast {
+    margin-left: 15px;
+    text-transform: capitalize;
+}
+
+.moisture {
+    margin-top: 20px;
+}
